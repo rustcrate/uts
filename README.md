@@ -16,10 +16,10 @@ uts = "0.1"
 
 Then in your code:
 ```rust
-use uts::timestamp;
+use uts::time;
 
 fn main() {
-    println!("Current timestamp: {}", timestamp());
+    println!("Current timestamp: {}", time());
 }
 ```
 
