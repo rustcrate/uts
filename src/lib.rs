@@ -4,6 +4,6 @@ use std::time::{SystemTime, UNIX_EPOCH};
 pub fn time() -> u64 {
     SystemTime::now()
         .duration_since(UNIX_EPOCH)
-        .expect("Time went backwards")
+        .expect("Error getting system time")
         .as_secs()
 }
