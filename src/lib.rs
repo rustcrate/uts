@@ -5,7 +5,7 @@ use std::time::{SystemTime, UNIX_EPOCH};
 /// # Examples
 ///
 /// ```
-/// let ts = timestamp::timestamp();
+/// let ts = uts::timestamp();
 /// println!("Current timestamp: {}", ts);
 /// ```
 pub fn timestamp() -> u64 {
