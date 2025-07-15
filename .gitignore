@@ -1,5 +1,6 @@
 # Rust build artifacts
 /target/
+.aider*
 **/*.rs.bk
 
 # Cargo build files
