@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Simple timestamp utility"
 license = "MIT"
-repository = "https://github.com/rustcrate/timestamp"
+repository = "https://github.com/rustcrate/uts"
 authors = ["Rust Crate<rustcrate@cloudxaas.com>"]
 
 [dependencies]
