@@ -5,6 +5,6 @@ edition = "2021"
 description = "Simple timestamp utility"
 license = "MIT"
 repository = "https://github.com/rustcrate/timestamp"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Rust Crate<rustcrate@cloudxaas.com>"]
 
 [dependencies]
