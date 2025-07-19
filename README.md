@@ -6,23 +6,4 @@
 
 A simple Rust utility for getting Unix timestamps.
 
-## Usage
-
-Add to your `Cargo.toml`:
-```toml
-[dependencies]
-uts = "0.1"
-```
-
-Then in your code:
-```rust
-use uts::time;
-
-fn main() {
-    println!("Current timestamp: {}", time());
-}
-```
-
-## License
-
-MIT - see [LICENSE](LICENSE) file
+# Obsolete, moved to s::time()
