@@ -7,3 +7,4 @@
 A simple Rust utility for getting Unix timestamps.
 
 # Obsolete, moved to s::time()
+https://github.com/rustcrate/s
